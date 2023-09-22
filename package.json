@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nevredimiy.github.io/rest-countries-with-color-theme-switcher",
+  "homepage": "https://nevredimiy.github.io/rest-counties-api-with-color-theme-switcher-master",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
